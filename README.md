@@ -23,6 +23,16 @@
 
 **8. <mark style="background-color: #e9c1e4;">Tipos de datos:**</mark> Es decirle a la computadora qué tipo de contenido tiene una variable o constante. 
 
+**9. <mark style="background-color: #e9c1e4;">Log:**</mark> Historial de sucesos.
+
+**10. <mark style="background-color: #e9c1e4;">Warning:**</mark> Algo que no tiene la misma seriedad que un error, pero también se le debe prestar atención.
+
+**11. <mark style="background-color: #e9c1e4;">Strings:**</mark> Almacenar carácteres.
+
+**12. <mark style="background-color: #e9c1e4;">Numbers:**</mark> Almacenar números.
+
+**13. <mark style="background-color: #e9c1e4;">Boolean:**</mark> Almacenar valores de verdadero y falso.
+
 
 # Errores
 
