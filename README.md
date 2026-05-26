@@ -33,6 +33,7 @@
 
 **13. <mark style="background-color: #e9c1e4;">Boolean:**</mark> Almacenar valores de verdadero y falso.
 
+**14. <mark style="background-color: #e9c1e4;">Estructuras de control:**</mark> Nos permiten poder decirle a la computadora, que acción tomar y qué camino seguir dependiendo de condiciones y/o acciones.
 
 # Errores
 
@@ -48,6 +49,11 @@
 
 **3.** No pueden contener caracteres especiales como: @ ( % ‘ # ! á é í ó ú ñ pero el signo $ sí es permitido igual que el guión bajo.
 
+# Estructuras De Control
+
+**1. <mark style="background-color: #e9c1e4;">If Else:**</mark> El **if** y **else**, se pueden anidar, es decir en una condición if, podemos realizar otro if else y así sucesivamente sin límite. (no se acostumbra a meter muchos if else porque puede llegar a ser un poco enredado).
+
+**2. <mark style="background-color: #e9c1e4;">Switch:**</mark> Permite realizar múltiples decisiones de forma limpia y eficiente.
 
 
 
