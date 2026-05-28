@@ -35,6 +35,8 @@
 
 **14. <mark style="background-color: #e9c1e4;">Estructuras de control:**</mark> Nos permiten poder decirle a la computadora, que acción tomar y qué camino seguir dependiendo de condiciones y/o acciones.
 
+**15. <mark style="background-color: #e9c1e4;">Ciclos o loops:**</mark> Nos permiten ejecutar las mismas líneas de código una y otra vez de forma consecutiva.
+
 # Errores
 
 **1. <mark style="background-color: #e9c1e4;">Sintaxis:**</mark> Usar mal una palabra reservada.
@@ -54,6 +56,17 @@
 **1. <mark style="background-color: #e9c1e4;">If Else:**</mark> El **if** y **else**, se pueden anidar, es decir en una condición if, podemos realizar otro if else y así sucesivamente sin límite. (no se acostumbra a meter muchos if else porque puede llegar a ser un poco enredado).
 
 **2. <mark style="background-color: #e9c1e4;">Switch:**</mark> Permite realizar múltiples decisiones de forma limpia y eficiente.
+
+# Palabras Reservadas
+
+**1. <mark style="background-color: #e9c1e4;">Case:**</mark> Es una palabra reservada que se debe usar solo dentro de un Switch.
+
+**2. <mark style="background-color: #e9c1e4;">Throw new Error:**</mark> Nos permite lanzar un error por nuestro lado, siendo alternativa del if y que nuestro programa no se siga ejecutando.
+
+**3. <mark style="background-color: #e9c1e4;">While:**</mark> Este ciclo es bastante útil, cuando no sabemos exactamente la cantidad de veces que necesitamos ejecutar el código.
+
+**4. <mark style="background-color: #e9c1e4;">For:**</mark> Es muy útil cuando sabemos la cantidad de veces que necesitamos ejecutar el código. 
+
 
 
 
