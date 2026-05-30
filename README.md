@@ -37,6 +37,12 @@
 
 **15. <mark style="background-color: #e9c1e4;">Ciclos o loops:**</mark> Nos permiten ejecutar las mismas líneas de código una y otra vez de forma consecutiva.
 
+**16. <mark style="background-color: #e9c1e4;">Funciones:**</mark> Una función es un conjunto de líneas de código que realizan una tarea específica y pueden retornar algo.
+
+**17. <mark style="background-color: #e9c1e4;">Parámetros o argumentos:**</mark> Cuando hay más de un argumento se separan por coma.
+
+**18. <mark style="background-color: #e9c1e4;">Retorno de la función (return):**</mark> Es lo que vamos a obtener cuando la ejecución de la función termine.
+
 # Errores
 
 **1. <mark style="background-color: #e9c1e4;">Sintaxis:**</mark> Usar mal una palabra reservada.
